@@ -1,5 +1,5 @@
 # Productivity-google-extension
-I made ans extension for the first time it was funn
+I made an extension for the first time it was funn
 
 you click and you go to places you love and you dont use a gazilion ram haha
 
